@@ -1,2 +1,2 @@
-# Laboratorio_A01707746
+# Laboratorio_Equipo3
 Laboratorio de Github - Equipo 3
